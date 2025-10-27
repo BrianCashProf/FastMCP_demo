@@ -1,0 +1,43 @@
+# Virtual environments
+.venv/
+.venv3.12/
+venv/
+ENV/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# mypy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store

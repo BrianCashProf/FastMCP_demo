@@ -1,0 +1,13 @@
+{
+  "entrypoint": "scheduler_server.py",
+  "description": "Schedule Planner MCP Server - Comprehensive personal schedule management",
+  "version": "1.0.0",
+  "environment": {
+    "python_path": "../example_code_base"
+  },
+  "metadata": {
+    "author": "FastMCP Demo",
+    "repository": "https://github.com/BrianCashProf/FastMCP_demo",
+    "license": "MIT"
+  }
+}
